@@ -1,2 +1,2 @@
 # Robotron
- Curso da Alura
+ Curso da Alura - Aplicando HTML, CSS, JS e gerenciando repositórios.
