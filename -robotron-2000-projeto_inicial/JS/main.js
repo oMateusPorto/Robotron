@@ -33,7 +33,6 @@ const pecas = {
         "velocidade": -2
     }
 }
-console.log(controle.dataset)
 
 controle.forEach((elemento) => {
     elemento.addEventListener("click", (evento) => {
